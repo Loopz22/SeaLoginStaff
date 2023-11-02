@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/br.yml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/en.yml" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/es.yml" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/net/javateam/login/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/net/javateam/login/comandos/ComandoLogin.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/net/javateam/login/eventos/Eventos.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/org/loopz/sealoginstaff/Main.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/org/loopz/sealoginstaff/discord/Commands.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/org/loopz/sealoginstaff/sqlite/SQLite.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/org/loopz/sealoginstaff/utils/Utils.java" charset="windows-1252" />
+  </component>
+</project>

@@ -1,0 +1,37 @@
+Messages:
+  limit-reached: "You've already exceeded the account limit."
+  register-sucess: "You've successfully bonded."
+  unregister: "Account successfully removed."
+  login: "You've successfully succeeded."
+  already-logged: "You are already logged in."
+  already-registred: "This nick has already been linked by another account."
+  registred-already: "You've already linked this nick to your account."
+  invalid-nickname: "This nick is not a valid minecraft nick."
+  invalid-command: "This command was not found."
+  not-registred: "This nick hasn't been registered yet."
+  internal-error: "An error occurred while executing the command."
+  incomplete-command: "Command is incomplete."
+  not-staff: 'Only staffs can do this.'
+  empty-list: "You don't have any nicks registered to your account."
+  help:
+    - "**Commands**"
+    - "`@prefixregister` (nick) - Links an account with discord."
+    - "`@prefixaccounts` - Lists your accounts linked to discord."
+    - "`@prefixlogin` (nick)' - Authenticates on the server."
+    - "`@prefixunregister` (nick)' - Unlinks a nick from your account."
+  accounts:
+    - "```"
+    - "%@accounts"
+    - "```"
+  no-logged:
+    - '&c                   SeaStore'
+    - '&c Log in so you can sign in to the server.'
+    - ''
+  no-in-discord:
+    - '&c                   SeaStore'
+    - '&c You are not in the discord of the server.'
+    - ''
+  no-register:
+    - '&c                   SeaStore'
+    - '&c You need to register to enter the server.'
+    - ''

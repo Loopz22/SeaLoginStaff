@@ -1,0 +1,17 @@
+###################################
+#          SeaLoginStaff          #
+#  https://discord.gg/236yn5WtTm  #
+###################################
+#     Avaliable Languages         #
+#         BR - EN - ES            #
+###################################
+Config:
+  Token: '' #Bot token
+  ChannelID: '' #Channel commands
+  ServerID: '' #Server discord id
+  RoleID: '' #Role staff id
+System:
+  language: 'br'
+  accounts-limit: 2
+  status: 'SeaLoginStaff - s!ajuda'
+  prefix: 's!'

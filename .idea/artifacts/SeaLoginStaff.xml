@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SeaLoginStaff">
+    <output-path>$USER_HOME$/OneDrive/Ambiente de Trabalho/Server/plugins</output-path>
+    <root id="archive" name="SeaLoginStaff.jar">
+      <element id="module-output" name="SeaLoginStaff" />
+    </root>
+  </artifact>
+</component>

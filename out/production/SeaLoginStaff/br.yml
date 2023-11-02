@@ -1,0 +1,39 @@
+Messages:
+  limit-reached: 'Você já excedeu o limite de contas.'
+  register-sucess: 'Você se vinculou com sucesso.'
+  unregister: 'Conta removida com sucesso.'
+  login: 'Você se autenticou com sucesso.'
+  already-logged: 'Você já está logado.'
+  already-registred: 'Esse nick já foi vinculado por outra conta.'
+  registred-already: 'Você já vinculou este nick na sua conta.'
+  invalid-nickname: 'Esse nick não é um nick válido de minecraft'
+  invalid-command: 'Este comando não foi encontrado.'
+  not-registred: 'Este nick ainda não foi registrado.'
+  internal-error: 'Ocorreu um erro ao executar o comando.'
+  incomplete-command: 'Comando incompleto.'
+  not-staff: 'Somente staffs podem fazer isto.'
+  empty-list: 'Você não possui nenhum nick registrado na sua conta.'
+  help:
+    - '**Comandos**'
+    - '`@prefixvincular (nick)` - Vincula uma conta com o discord.'
+    - '`@prefixdesvincular (nick)` - Desvincula um nick da sua conta.'
+    - '`@prefixlogar (nick)` - Se autentica no servidor.'
+    - '`@prefixaccounts` - Lista suas contas vinculados com o discord.'
+  accounts:
+    - '@accounts'
+  no-logged:
+    - '&c                  &cSeaLoginStaff'
+    - '&c Você precisa se autenticar para entrar no servidor.'
+    - ''
+  no-in-discord:
+    - '&c                  &cSeaLoginStaff'
+    - '&c Você não está no discord do servidor.'
+    - ''
+  no-register:
+    - '&c                  &cSeaLoginStaff'
+    - '&c Você precisa efetuar o registro para entrar no servidor.'
+    - ''
+  logged-success:
+    - '&a        &aSeaLoginStaff'
+    - '&e Você efetuou o login com sucesso.'
+    - ''

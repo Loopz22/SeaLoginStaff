@@ -1,0 +1,37 @@
+Messages:
+  limit-reached: 'Ya has superado el límite de la cuenta.'
+  register-sucess: 'Te has unido con éxito.'
+  unregister: 'Cuenta eliminada correctamente.'
+  login: 'Has tenido éxito.'
+  already-logged: 'Ya ha iniciado sesión.'
+  already-registred: 'Este nick ya ha sido vinculado por otra cuenta.'
+  registred-already: 'Ya has vinculado este nick a tu cuenta.'
+  invalid-nickname: 'Este nick no es un nick válido de minecraft.'
+  invalid-command: 'No se encontró este comando.'
+  not-registred: 'Este nick aún no se ha registrado.'
+  internal-error: 'Se ha producido un error al ejecutar el comando.'
+  incomplete-command: 'Comando incompleto.'
+  not-staff: 'Solo el personal puede hacer esto.'
+  empty-list: 'No tienes ningún nick registrado en tu cuenta.'
+  help:
+    - '**Comandos**'
+    - '`@prefixregister (nick)` - Vincular una cuenta con discordia.'
+    - '`@prefixaccounts` - Enumera sus cuentas vinculadas con discordia.'
+    - '`@prefixlogin (nick)` - Se autentica en el servidor.'
+    - '`@prefixunregister (nick)` - Desvincula un nick de tu cuenta.'
+  accounts:
+    - '```'
+    - '@accounts'
+    - '```'
+  no-logged:
+    - ''
+    - '&c Inicie sesión para que pueda iniciar sesión en el servidor'
+    - ''
+  no-in-discord:
+    - ''
+    - '&c No estás en la discordia del servidor'
+    - ''
+  no-register:
+    - ''
+    - '&c Debe registerse para ingresar al servidor'
+    - ''
